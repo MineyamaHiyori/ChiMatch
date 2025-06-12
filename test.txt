@@ -1,1 +1,6 @@
 test
+memo
+front start command
+ npm run dev
+backend start command
+ python3 manage.py runserver
